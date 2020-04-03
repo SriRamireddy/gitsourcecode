@@ -26,4 +26,50 @@ _You **can** combine them_ <br>
     
 # Big Picture Image Here
 
-![Git Picture]("https://miro.medium.com/max/1400/1*-l3Qrum9oPMiiM0yW7v_Ng.png")
+![Git Picture](download.png)
+
+[Git official](http://git.com)
+
+
+# BlockQuotes
+
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
+
+# Inline
+
+I think you should use an
+`<addr>` element here instead.
+
+
+# Syntax Highlighting
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
+
+# task
+Who is PM of India ?
+- [ ] YS JAGAN
+- [ ] Amit sha
+- [x] Modi
+- [ ] Ram
+
+# Table 
+
+Mentor name | Salary
+----------- | ---------
+Ramireddy | 10000
+Siva | 10000
+Lokesh | 10000
+Anil | 10000
+Gopi | 10000
+UV | 10000
+
+
+@octocat :+1: This PR looks great - it's ready to merge! :shipit:
